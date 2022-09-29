@@ -1,0 +1,27 @@
+body {
+  width: 90%;
+}
+.form-group {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: small;
+}
+.form-control {
+  display: block;
+  padding: 5px;
+  width: 100%;
+  margin: 5px;
+}
+.form-label {
+  display: inline-block;
+  padding: 5px;
+}
+.form-button {
+  background-color: rgb(8, 8, 247);
+  color: white;
+  border: 0;
+  border-radius: 5px;
+  display: inline-block;
+  padding: 10px;
+  margin: 5px;
+  box-shadow: 0 0 3px rgb(18, 3, 3);
+}
